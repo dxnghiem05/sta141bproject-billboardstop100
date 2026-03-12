@@ -1,6 +1,6 @@
 # sta141bproject-billboardstop100
 
-## How to get the Spotify API (need spotify account)
+## How to get the Spotify API (need spotify premium account)
  here is the link to the site: https://developer.spotify.com/documentation/web-api
 ## STEPS
  1. get to this page, https://developer.spotify.com/dashboard, and click on create app
@@ -19,6 +19,6 @@
  - Whether collaborations between multiple artists have become more common
 
  For the data sources, we used two things:
- 1. Wikipedia Billboard Year-End Top 100
- 2. Spotify API track metadata
- Both are provided in the ipynd file.
+ 1. Wikipedia Billboard Year-End Top 100 (links are in the .ipynb file)
+ 2. Spotify API track metadata (the dataset is provided through the .csv file)
+
