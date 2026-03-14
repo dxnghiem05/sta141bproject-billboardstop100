@@ -11,7 +11,7 @@
  client_secret = "YOUR_SPOTIFY_CLIENT_SECRET"
 
 
-## Billboard Hot 100 Song Analysis (2020 vs 2025)
+## Billboard Hot 100 Song Analysis (2020 through 2025)
  This project examines how the characteristics of songs on the Billboard Year-End Hot 100 have changed between 2020 and 2025 using track information from Spotify.
  In particular, the analysis explores:
  - Whether average song duration has changed over time
