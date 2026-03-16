@@ -22,3 +22,8 @@
  1. Wikipedia Billboard Year-End Top 100 (links are in the .ipynb file)
  2. Spotify API track metadata (the dataset is provided through the .csv file)
 
+## About Coverage of major course topics:
+- in order to comply with this, we ended up demonstrating three of the topics we have learned throughout this quarter:
+1. Web Scraping (for getting data through wikipedia)
+2. Visualizations (for all the  bar plots and other charts)
+3. Pandas/Numpy (for data cleaning, parsing html, text processing and other small functions)
